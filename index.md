@@ -12,10 +12,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>Coldtherm Engineering</h1>
       </header>
       <section>
-        <p>Coldtherm Engineering</p>
+        <p>Website coming soon</p>
       </section>
       <footer>
         &copy; Coldtherm
